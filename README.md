@@ -42,8 +42,8 @@ Implementação do https://www.tabnews.com.br para o http://curso.dev. Um projet
   * `$ git add .gitignore` Adiciona o arquivo '.gitignore' na fase staged, ou seja em fila de commit  
   * `$ git commit --amend` O git pega tudo que estiver na fase staged, ou seja em fila de commitar, e adiciona ao ultimo commit feito 
 ### Dia 6 
-  * `comando` Explicação 
-  * `git commit -m "mensagem"` Atalho para fazer novos commits.
-  * `git push` Empurrar alterações locais para o origin.
-  * `git push --force` Empurrar de forma forçada alterações locais para o origin.
-  * `git push -f` A forma comprimida do comando anterior.
+  * `$ comando` Explicação 
+  * `$ git commit -m "mensagem"` Atalho para fazer novos commits.
+  * `$ git push` Empurrar alterações locais para o origin.
+  * `$ git push --force` Empurrar de forma forçada alterações locais para o origin.
+  * `$ git push -f` A forma comprimida do comando anterior.
