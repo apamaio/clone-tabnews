@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      {" "}
-      Mirele, você é muito ESPECIAL, e importante demais na minha vida. 🌞{" "}
-    </h1>
-  );
+  return <h1> Adriano, no hay camino. Se hace el camino al andar. </h1>;
 }
 
 function teste() {
